@@ -2,6 +2,12 @@
 
 > My text template cli.
 
+## Installation
+
+```bash
+npm i -g tina-template
+```
+
 ## Usage
 
 ```bash
